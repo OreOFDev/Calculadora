@@ -1,5 +1,5 @@
-calculadora simples feita em python
-(Atualizei ela arquivo chamado mainNew.py.py usa a tools.py)
+calculadora simples feita em python (mainOLD.py)
+(Atualizei ela arquivo chamado (main.py) usa a tools.py)
 
 1 - Somar
 2 - Subtrair
